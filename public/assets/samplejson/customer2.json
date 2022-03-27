@@ -1,0 +1,12 @@
+{
+	"id": 2,
+	"name": "ABCD",
+	"email": "abcd@test.com",
+	"phone": "987654321",
+	"city": "Toronto",
+	"state": "Ontario",
+	"country": "Canada",
+	"organization": "Company OZS",
+	"jobProfile": "UI Designer",
+	"additionalInfo": "Buys Products Rarely"
+}

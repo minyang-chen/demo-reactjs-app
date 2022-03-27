@@ -1,0 +1,12 @@
+{
+	"id": 1,
+	"name": "John Smith",
+	"email": "jsmith@example.com",
+	"phone": "918191199",
+	"city": "Kansa",
+	"state": "NY",
+	"country": "US",
+	"organization": "Company XYZ",
+	"jobProfile": "Software Developer",
+	"additionalInfo": "Has Bought a lot of products before and a high Value Customer"
+}
